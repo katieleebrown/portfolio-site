@@ -1,6 +1,8 @@
 # My Portfolio
 This is the most up-to-date version of my portfolio. It includes links to a few of my recent projects, some information about me and freelancing opportunities, as well as a contact section. You can take a look at the live version of my portfolio, here: https://katieleebrown.netlify.app/
 
+![Screenshot of my porfolio. Includes intro (Katie Brown, a Cary, NC Fullstack Dev) and freelance opportunities.](https://raw.githubusercontent.com/katieleebrown/portfolio-site/main/portfolio.JPG)
+
 # How It's Made
 Tech used: HTML, CSS, Sass, Javascript
 
